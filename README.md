@@ -30,8 +30,9 @@ Launch an AWS EC2 instance with the following specifications:
 Use your local machine's terminal to SSH into your EC2 instance. Replace `<YourInstanceIP>` with the actual IPv4 address.
 
 ```bash
-```
 ssh -i .pem ubuntu@<YourInstanceIP>
+```
+
 # WordPress Installation on AWS EC2 Instance
 
 This guide will walk you through the steps to install WordPress on an AWS EC2 instance using Ubuntu. You can use this setup as a starting point for your WordPress website.
