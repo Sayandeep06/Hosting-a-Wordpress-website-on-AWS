@@ -1,4 +1,4 @@
-##Hosting a WordPress Website on AWS
+#Hosting a WordPress Website on AWS
 This repository provides instructions on how to host a WordPress website on AWS EC2 using a MySQL server and PHP.
 
 Prerequisites:
